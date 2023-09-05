@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "GetS3Files",
-    "slug": "GetS3Files",
+    "name": "Security Controller",
+    "slug": "Security Controller",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
